@@ -30,7 +30,6 @@ And then calculate the gross pay = regular pay + overtime pay
 print output
 '''
 
-# To read data from user
 ename = input("Enter employee's name: ")
 hours_worked = float(input("Enter number of hours worked: "))
 pay_rate = float(input("Enter employee's pay rate: "))
